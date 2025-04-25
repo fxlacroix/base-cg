@@ -14,6 +14,7 @@
   },
   "keywords": [],
   "author": "",
+  "type": "module",
   "license": "GPL",
   "bugs": {
     "url": "https://github.com/artisb45/CodingameSpring2021/issues"
